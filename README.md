@@ -2,6 +2,9 @@
 
 Generate pixel-perfect PDF template to use as `architecture blueprint`
 
+[Blue](https://github.com/myeyesareblind/gn-cloj-architect-template/blob/master/blue_doc.pdf)
+[Black](https://github.com/myeyesareblind/gn-cloj-architect-template/blob/master/black_doc.pdf)
+
 ## License
 
 Copyright © 2019 FIXME
